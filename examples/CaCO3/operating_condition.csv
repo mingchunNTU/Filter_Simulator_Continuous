@@ -1,0 +1,14 @@
+Slurry Condition,,,
+slurry concentration,slurry flowrate,slurry viscosity,
+g/L,m3/hr,Pa*s,
+236,2.27,1.00E-03,
+,,,
+Cake Property,,,
+cake resistance,cake porosity,crystal density,
+m/kg,-,kg/m3,
+1.90E+11,0.291,2110,
+,,,
+Fliter Condition,,,
+pressure drop,filter area ratio,rotation period,filter medium resistance
+mmHg,-,min,1/m
+508,0.3,5,0.00E+00
