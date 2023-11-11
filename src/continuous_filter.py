@@ -4,7 +4,7 @@ from data import *
 
 # ===========================================
 
-setting_dir="../examples/KNO3/"
+setting_dir=r"../examples/ammonium alum/"
 
 # ===========================================
 
